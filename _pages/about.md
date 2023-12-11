@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -41,13 +41,18 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
  -->
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com),
--  A, B, C, **CVPR 2024**
 
+ 
+- [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://github.com) \
+  **Gaoge Han**, Shaoli Huang, Mingming Gong, Jinglei Tang \
+  Accepted by **AAAI 2024**
+
+
+<!-- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-<!-- 
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
