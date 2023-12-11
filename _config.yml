@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gaoge Han"
-description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              :  "M.S. Student in Northwest A&F University | AIGC"
 repository               : "gaogehan.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gaoge Han"
   avatar           : "images/me.png"
-  bio              : "M.S. Student in Northwest A&F University | AIGC"
+  bio              : # "M.S. Student in Northwest A&F University | AIGC"
   location         : "Yangling, China"
   employer         :
   pubmed           : 
