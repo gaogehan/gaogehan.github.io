@@ -43,7 +43,7 @@ I have published more than 100 papers at the top international AI conferences wi
  -->
 
  
-- [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://github.com) \
+- [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://arxiv.org/pdf/2312.12227.pdf) \
   **Gaoge Han**, Shaoli Huang, Mingming Gong, Jinglei Tang \
   Accepted by **AAAI 2024**
 
