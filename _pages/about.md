@@ -25,9 +25,10 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 🔥 News
+- *2024.3.13*: &nbsp;🎉 One paper is accepted by ICME 2024.
 - *2023.12.9*: &nbsp;🎉 One paper is accepted by AAAI 2024.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,6 +47,9 @@ I have published more than 100 papers at the top international AI conferences wi
 - [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://arxiv.org/pdf/2312.12227.pdf) \
   **Gaoge Han**, Shaoli Huang, Mingming Gong, Jinglei Tang \
   Accepted by **AAAI 2024**
+- [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
+  Yongkang Chen, Mingjiang liang, Shaoli Huang, **Gaoge Han**, Wei Liu, Jifeng Ning \
+  Accepted by **ICME 2024**
 
 
 <!-- 
