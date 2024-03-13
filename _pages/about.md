@@ -48,7 +48,7 @@ I have published more than 100 papers at the top international AI conferences wi
   **Gaoge Han**, Shaoli Huang, Mingming Gong, Jinglei Tang \
   Accepted by **AAAI 2024**
 - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
-  Yongkang Chen, Mingjiang liang, Shaoli Huang, **Gaoge Han**, Wei Liu, Jifeng Ning \
+  Yongkang Cheng, Mingjiang liang, Shaoli Huang, **Gaoge Han**, Wei Liu, Jifeng Ning \
   Accepted by **ICME 2024**
 
 
