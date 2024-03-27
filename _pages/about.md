@@ -44,7 +44,7 @@ I have published more than 100 papers at the top international AI conferences wi
  -->
 
  
-- [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://arxiv.org/pdf/2312.12227.pdf) \
+- [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://doi.org/10.1609/aaai.v38i3.27974) \
   **Gaoge Han**, Shaoli Huang, Mingming Gong, Jinglei Tang \
   Accepted by **AAAI 2024**
 - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
