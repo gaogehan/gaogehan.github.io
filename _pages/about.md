@@ -46,11 +46,9 @@ I have published more than 100 papers at the top international AI conferences wi
 - [SIAM: A Parameter-free, Spatial Intersection Attention Module]() \
   **Gaoge Han**, Shaoli Huang, Fang Zhao, Jinglei Tang \
   Accepted by **Pattern Recognition**
-  
  - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
   Yongkang Cheng, Mingjiang liang, Shaoli Huang, **Gaoge Han**, Wei Liu, Jifeng Ning \
   Accepted by **ICME 2024**
-
 - [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://doi.org/10.1609/aaai.v38i3.27974) \
   **Gaoge Han**, Shaoli Huang, Mingming Gong, Jinglei Tang \
   Accepted by **AAAI 2024**
