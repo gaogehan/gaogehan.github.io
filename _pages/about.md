@@ -26,8 +26,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉 One paper is accepted by Pattern Recognition.
-- *2024.03*: &nbsp;🎉 One paper is accepted by ICME 2024. <!-- 2024.3.13  -->
-- *2023.12*: &nbsp;🎉 One paper is accepted by AAAI 2024. <!-- 2023.12.9-->
+- *2024.03*: &nbsp;🎉 One paper is accepted by ICME 2024. 
+- *2023.12*: &nbsp;🎉 One paper is accepted by AAAI 2024. 
 
 # 📝 Selected Publications 
 <!-- 
