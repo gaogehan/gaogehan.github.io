@@ -23,7 +23,6 @@ I have published more than 100 papers at the top international AI conferences wi
  
  Currently, my research topic is 3D vision, with a particular focus on **3D human motion generation, and diffusion-based model**. Previously, I focused on low-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
- 
  I am excited to apply for **2024 Fall PhD** programs. If you are interested in discussing opportunities or have any questions, please feel free to email me. I genuinely appreciate your consideration and look forward to connecting with you.
 
 
@@ -49,13 +48,13 @@ I have published more than 100 papers at the top international AI conferences wi
  -->
 - [SIAM: A Parameter-free, Spatial Intersection Attention Module]() \
   **Gaoge Han**, Shaoli Huang, Fang Zhao, Jinglei Tang \
-  Accepted by **Pattern Recognition**
+  Pattern Recognition **(PR)**
  - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
   Yongkang Cheng, Mingjiang liang, Shaoli Huang, **Gaoge Han**, Wei Liu, Jifeng Ning \
-  Accepted by **ICME 2024**
+  IEEE International Conference on Multimedia & Expo **(ICME 2024)**
 - [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://doi.org/10.1609/aaai.v38i3.27974) \
   **Gaoge Han**, Shaoli Huang, Mingming Gong, Jinglei Tang \
-  Accepted by **AAAI 2024**
+  AAAI Conference on Artificial Intelligence **(AAAI 2024)**
 
 
 
