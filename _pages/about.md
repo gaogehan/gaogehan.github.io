@@ -19,16 +19,19 @@ redirect_from:
 <!-- 
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
- I am a third-year Master’s student at the College of Information Engineering, Northwest A&F University. My research interest includes human motion generation and object detection/segmentation. 
+ I am currently a third-year Master’s student at the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/).
+ 
+ Currently, my research topic is 3D vision, with a particular focus on **3D human motion generation, and diffusion-based model**. Previously, I focused on low-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+
  
  I am excited to apply for **2024 Fall PhD** programs. If you are interested in discussing opportunities or have any questions, please feel free to email me. I genuinely appreciate your consideration and look forward to connecting with you.
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 One paper is accepted by Pattern Recognition.
+- *2024.04*: &nbsp;🎉 One paper is accepted by Pattern Recognition (1区Top, CCF-B).
 - *2024.03*: &nbsp; HuTuMotion is accepted by VALSE 2024 Poster, see you in chongqing.
-- *2024.03*: &nbsp;🎉 One paper is accepted by ICME 2024. 
-- *2023.12*: &nbsp;🎉 One paper is accepted by AAAI 2024. 
+- *2024.03*: &nbsp;🎉 One paper is accepted by ICME 2024 (CCF-B). 
+- *2023.12*: &nbsp;🎉 One paper is accepted by AAAI 2024 (CCF-A). 
 
 # 📝 Selected Publications 
 <!-- 
