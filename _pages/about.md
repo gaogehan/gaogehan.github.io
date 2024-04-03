@@ -24,6 +24,8 @@ I have published more than 100 papers at the top international AI conferences wi
  Currently, my research topic is 3D vision, with a particular focus on ***3D human motion generation, and diffusion-based model***. Previously, I focused on low-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
  I am excited to apply for ***2024 Fall PhD*** programs. If you are interested in discussing opportunities or have any questions, please feel free to email me. I genuinely appreciate your consideration and look forward to connecting with you.
+ 
+> "Explore the unknown and turn possibilities into realities."
 
 
 # 🔥 News
