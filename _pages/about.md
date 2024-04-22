@@ -48,9 +48,9 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
  -->
-- [SIAM: A Parameter-free, Spatial Intersection Attention Module]() \
+- [SIAM: A Parameter-free, Spatial Intersection Attention Module](https://doi.org/10.1016/j.patcog.2024.110509) \
   ***Gaoge Han***, Shaoli Huang, Fang Zhao, Jinglei Tang \
-  Pattern Recognition **(PR, to appear)**
+  Pattern Recognition **(PR)**
  - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
   Yongkang Cheng, Mingjiang liang, Shaoli Huang, ***Gaoge Han***, Wei Liu, Jifeng Ning \
   IEEE International Conference on Multimedia & Expo **(ICME 2024, to appear)**
