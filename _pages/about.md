@@ -21,7 +21,7 @@ I have published more than 100 papers at the top international AI conferences wi
  -->
  I am currently a third-year Master’s student at the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/).
  
- Currently, my research topic is 3D vision, with a particular focus on ***3D human motion generation, and diffusion-based model***. Previously, I focused on low-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+ Currently, my research topic is 3D vision, with a particular focus on ***3D human motion generation, and diffusion-based model***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
  I am excited to apply for ***2024 Fall PhD*** programs. If you are interested in discussing opportunities or have any questions, please feel free to email me. I genuinely appreciate your consideration and look forward to connecting with you.
  
@@ -29,6 +29,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 🔥 News
+- *2024.05*: &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
 - *2024.04*: &nbsp;🎉 One paper is accepted by Pattern Recognition (1区Top, CCF-B).
 - *2024.03*: &nbsp; HuTuMotion is accepted by VALSE 2024 Poster, see you in chongqing.
 - *2024.03*: &nbsp;🎉 One paper is accepted by ICME 2024 (CCF-B). 
