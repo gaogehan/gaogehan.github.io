@@ -29,8 +29,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 # 🔥 News
+<!-- - *2024.05*: &nbsp; I will start a research intern at Tencent AI Lab, supervised by Shaoli Huang.  -->
 - *2024.05*: &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
-- *2024.04*: &nbsp;🎉 One paper is accepted by Pattern Recognition (1区Top, CCF-B).
+- *2024.04*: &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI一区Top, CCF-B).
 - *2024.03*: &nbsp; HuTuMotion is accepted by VALSE 2024 Poster, see you in chongqing.
 - *2024.03*: &nbsp;🎉 One paper is accepted by ICME 2024 (CCF-B). 
 - *2023.12*: &nbsp;🎉 One paper is accepted by AAAI 2024 (CCF-A). 
@@ -54,7 +55,7 @@ I have published more than 100 papers at the top international AI conferences wi
   Pattern Recognition **(PR)**
  - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
   Yongkang Cheng, Mingjiang liang, Shaoli Huang, ***Gaoge Han***, Wei Liu, Jifeng Ning \
-  IEEE International Conference on Multimedia & Expo **(ICME 2024, to appear)**
+  IEEE International Conference on Multimedia & Expo **(ICME 2024, appear soon)**
 - [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://doi.org/10.1609/aaai.v38i3.27974) \
   ***Gaoge Han***, Shaoli Huang, Mingming Gong, Jinglei Tang \
   AAAI Conference on Artificial Intelligence **(AAAI 2024)**
