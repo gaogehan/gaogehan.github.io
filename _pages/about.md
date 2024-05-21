@@ -30,12 +30,12 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔥 News
 <!-- - *2024.05*: &nbsp; I will start a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ).  --> 
-- *2024.05*: &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition(陕西省第八届研究生创新成果展).
-- *2024.05*: &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
-- *2024.04*: &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI一区Top, CCF-B).
-- *2024.03*: &nbsp; HuTuMotion is accepted by [VALSE 2024](https://valser.org/2024/#/) Poster, see you in chongqing.
-- *2024.03*: &nbsp;🎉 One paper is accepted by ICME 2024 (CCF-B). 
-- *2023.12*: &nbsp;🎉 One paper is accepted by AAAI 2024 (CCF-A). 
+- *2024.05* &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition(陕西省第八届研究生创新成果展).
+- *2024.05* &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
+- *2024.04* &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI一区Top, CCF-B).
+- *2024.03* &nbsp; HuTuMotion is accepted by [VALSE 2024](https://valser.org/2024/#/) Poster, see you in chongqing.
+- *2024.03* &nbsp;🎉 One paper is accepted by ICME 2024 (CCF-B). 
+- *2023.12* &nbsp;🎉 One paper is accepted by AAAI 2024 (CCF-A). 
 
 # 📝 Selected Publications 
 <!-- 
@@ -64,10 +64,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 
 <!-- 
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- *2024.5* 西北农林科技大学校级优秀毕业生. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
