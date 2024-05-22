@@ -29,7 +29,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 <!-- -  --> 
 # 🔥 News
-- *2024.05*: &nbsp; I will start a research intern at [Tencent AI Lab](https://ai.tencent.com/), see you in Shenzhen. 
+- *2024.05*: &nbsp; I will start a research intern at [Tencent AI Lab](https://ai.tencent.com/), see you in shenzhen. 
 - *2024.05* &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition(陕西省第八届研究生创新成果展).
 - *2024.05* &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
 - *2024.04* &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI一区Top, CCF-B).
@@ -62,10 +62,10 @@ I have published more than 100 papers at the top international AI conferences wi
   AAAI Conference on Artificial Intelligence **(AAAI 2024)**
 
 # 🎖 Honors and Awards
-- *2024.5* Northwest A&F University Outstanding Graduate (西北农林科技大学校级优秀毕业生). 
+- *2024.5* Northwest A&F University Outstanding Graduate. 
 
 <!-- 
-
+(西北农林科技大学校级优秀毕业生)
 
 
 # 📖 Educations
