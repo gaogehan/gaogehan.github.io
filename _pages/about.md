@@ -21,7 +21,7 @@ I have published more than 100 papers at the top international AI conferences wi
  -->
  I am currently a third-year Master’s student at the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/).
  
- Currently, my research topic is 3D vision, with a particular focus on ***3D motion capture and human motion generation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+ Currently, my research topic is 3D vision, with a particular focus on ***3D human motion estimation and human motion generation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
  I am excited to apply for ***2024 Fall PhD*** programs. If you are interested in discussing opportunities or have any questions, please feel free to email me. I genuinely appreciate your consideration and look forward to connecting with you.
  
