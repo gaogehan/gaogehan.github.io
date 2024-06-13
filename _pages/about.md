@@ -65,7 +65,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2024.6* Northwest A&F University Outstanding Graduate Dissertation (8/127).
 - *2024.5* Northwest A&F University Outstanding Graduate (1/127). 
 
-### <a href='https://clustrmaps.com/site/1c02c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=APzgcgBGXNnvSP1voM9AkukFf0rtf1oisGno0_jNWpo&co=42a5ea&ct=ffffff'/></a>
+# <a href='https://clustrmaps.com/site/1c02c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=APzgcgBGXNnvSP1voM9AkukFf0rtf1oisGno0_jNWpo&co=54b4f7'/></a>
 
 
 <!-- 
