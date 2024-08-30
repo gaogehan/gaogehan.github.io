@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## 🤓About Me
 
  I am currently a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). I just graduated from  the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/), China as an outstanding graduate in Jun. 2024 and obtained the Master’s  degree. 
 
