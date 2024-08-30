@@ -15,7 +15,7 @@ layout: homepage
 -->
 
 ## 🔥 News
-- *2024.09* &nbsp; 🎉🎉Two paper are accepted by WACV 2025 in Round1 (acceptance rate 12%). 
+- *2024.09* &nbsp; 🎉🎉Two papers are accepted by WACV 2025 in Round1 (acceptance rate 12%). 
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
 - *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
 - *2024.05* &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition.
