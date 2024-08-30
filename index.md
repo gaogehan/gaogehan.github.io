@@ -9,9 +9,10 @@ layout: homepage
  My research topic is 3D vision, with a particular focus on ***3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
  I am excited to apply for ***2025 PhD*** programs.
- 
- > "Explore the unknown and turn possibilities into realities."
 
+<!--
+ > "Explore the unknown and turn possibilities into realities."
+-->
 
 ## 🔥 News
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong. 
