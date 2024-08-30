@@ -15,7 +15,8 @@ layout: homepage
 -->
 
 ## 🔥 News
-- *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong. 
+- *2024.09* &nbsp; 🎉🎉Two paper are accepted by WACV 2025. 
+- *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
 - *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
 - *2024.05* &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition.
 - *2024.05* &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
