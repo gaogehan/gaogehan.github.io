@@ -10,7 +10,7 @@ layout: homepage
 
  I am excited to apply for ***2025 PhD*** programs.
  
-> "Explore the unknown and turn possibilities into realities."
+ > "Explore the unknown and turn possibilities into realities."
 
 
 ## 🔥 News
