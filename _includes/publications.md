@@ -1,4 +1,10 @@
 ## 📝 Selected Publications 
+- [ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model](https://) \
+  ***Gaoge Han***, Mingjiang Liang, Jinglei Tang,yongkang cheng, Wei Liu, Shaoli Huang \
+  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025, appear soon)**
+- [Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio](https://) \
+  Yongkang Cheng, Mingjiang Liang, Shaoli Huang, ***Gaoge Han***, Jifeng Ning, Wei Liu \
+  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025, appear soon)**
 - [SIAM: A Parameter-free, Spatial Intersection Attention Module](https://doi.org/10.1016/j.patcog.2024.110509) \
   ***Gaoge Han***, Shaoli Huang, Fang Zhao, Jinglei Tang \
   Pattern Recognition **(PR)**
