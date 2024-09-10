@@ -30,11 +30,7 @@ layout: homepage
 
 {% include_relative _includes/services.md %}
 
-<table width="100%" height="100%">
-    <tr>
-        <td align="center" valign="middle">
-            <a href='https://clustrmaps.com/site/1c02c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=APzgcgBGXNnvSP1voM9AkukFf0rtf1oisGno0_jNWpo&co=54b4f7'/></a>
-        </td>
-    </tr>
-</table>
+<center>
+ <a href='https://clustrmaps.com/site/1c02c'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=APzgcgBGXNnvSP1voM9AkukFf0rtf1oisGno0_jNWpo&co=54b4f7'/></a>
+</center>
 
