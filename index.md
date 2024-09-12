@@ -13,6 +13,15 @@ layout: homepage
 <!--
  > "Explore the unknown and turn possibilities into realities."
 -->
+# 👣Research Experience
+- *2024.10 - Present:* Research Assistant, [City University of Hong Kong](https://www.cityu.edu.hk/).
+- *2024.05 - 2024.09:* Research Intern, [Tencent AI Lab](https://ai.tencent.com/).
+![ai-lab](https://github.com/user-attachments/assets/8a7a0b1b-c08a-42ec-a248-f00305f94989)
+![d679f52c5d2c7fd4f62edffe10772dc1](https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b)
+
+
+
+
 
 ## 🔥 News
 - *2024.09* &nbsp; 🎉🎉Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
