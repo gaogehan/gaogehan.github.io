@@ -16,13 +16,9 @@ layout: homepage
 # 👣Research Experience
 - *2024.10 - Present:* Research Assistant, [City University of Hong Kong](https://www.cityu.edu.hk/).
 - *2024.05 - 2024.09:* Research Intern, [Tencent AI Lab](https://ai.tencent.com/).
-- 
-<div style="height: 63px; overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/8a7a0b1b-c08a-42ec-a248-f00305f94989" style="height: 100%; width: auto;">
-</div>
-<div style="height: 63px; overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 100%; width: auto;">
-</div>
+<img src="https://github.com/user-attachments/assets/8a7a0b1b-c08a-42ec-a248-f00305f94989" style="height: 50px; width: auto;">
+<img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 50px; width: auto;">
+
 
 
 
