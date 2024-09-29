@@ -1,6 +1,6 @@
 
 
-## 🎖 Honors and Awards
+## 🏅 Honors and Awards
 - *2024.6* Northwest A&F University Outstanding Graduate Dissertation (8/127).
 - *2024.5* Northwest A&F University Outstanding Graduate (1/127).
 
