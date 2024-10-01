@@ -1,7 +1,7 @@
 # Basic Information 
 title: Gaoge Han
-position: Research Intern
-affiliation: Tencent AI Lab
+position: Research Assistant
+affiliation: City University of Hong Kong
 email: hangaoge@nwafu.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -12,7 +12,7 @@ canonical: https://gaogehan.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com.hk/citations?user=AxGB0jEAAAAJ&hl=en&oi=ao
 cv_link: assets/files/curriculum_vitae.pdf
 dblp_link: https://dblp.org/pid/365/5193
 # github_link: https://github.com/
