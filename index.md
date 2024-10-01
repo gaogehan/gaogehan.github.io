@@ -4,9 +4,9 @@ layout: homepage
 
 ## 🤓About Me
 
- I am currently a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). I just graduated from  the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/), China as an outstanding graduate in Jun. 2024 and obtained the Master’s  degree. 
+ I am currently a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Previously, I am a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). I just graduated from  the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/), China as an outstanding graduate in Jun. 2024 and obtained the Master’s  degree. 
 
- My research topic is 3D vision, with a particular focus on ***3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+ My research topic is computer vision, with a particular focus on ***Game quality evaluation, 3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
  I am excited to apply for ***2025 PhD*** programs.
 
@@ -20,13 +20,6 @@ layout: homepage
 <img src="https://github.com/user-attachments/assets/8a7a0b1b-c08a-42ec-a248-f00305f94989" style="height: 50px; width: auto;">
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 50px; width: auto;">
-
-
-
-
-
-
-
 
 ## 🔥 News
 - *2024.09* &nbsp; 🎉🎉Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
