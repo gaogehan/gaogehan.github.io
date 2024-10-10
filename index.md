@@ -29,7 +29,6 @@ layout: homepage
 - *2024.05* &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
 - *2024.04* &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI Distinct 1 Top, CCF-B).
 - *2024.03* &nbsp; HuTuMotion is accepted by [VALSE 2024](https://valser.org/2024/#/) Poster, see you in chongqing.
-- *2024.03* &nbsp;🎉 One paper is accepted by ICME 2024 (CCF-B). 
 - *2023.12* &nbsp;🎉 One paper is accepted by AAAI 2024 (CCF-A). 
 
 
