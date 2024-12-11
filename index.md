@@ -8,8 +8,6 @@ layout: homepage
 
  My research topic is computer vision, with a particular focus on ***Game quality evaluation, 3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
- I am excited to apply for ***2025 PhD*** programs.
-
 <!--
  > "Explore the unknown and turn possibilities into realities."
 -->
