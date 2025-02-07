@@ -4,15 +4,15 @@ layout: homepage
 
 ## 🤓About Me
 
- I am currently a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Previously, I am a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ). I just graduated from  the College of Information Engineering, [Northwest A&F University](https://zhshw.nwsuaf.edu.cn/), China as an outstanding graduate in Jun. 2024 and obtained the Master’s  degree. 
+ I am a PhD Student at [MBZUAI](https://mbzuai.ac.ae/), advised by Prof. [Tongliang Liu](https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en). Previously, I was a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Before this, I was a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ).
 
- My research topic is computer vision, with a particular focus on ***Game quality evaluation, 3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+ My research topic is computer vision, with a particular focus on ***Video quality evaluation, 3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
 <!--
  > "Explore the unknown and turn possibilities into realities."
 -->
 ## 👣Research Experience
-- *2024.10 - Present:* Research Assistant, [City University of Hong Kong](https://www.cityu.edu.hk/).
+- *2024.10 - 2025.08:* Research Assistant, [City University of Hong Kong](https://www.cityu.edu.hk/).
 - *2024.05 - 2024.09:* Research Intern, [Tencent AI Lab](https://ai.tencent.com/).
 
 <img src="https://github.com/user-attachments/assets/8a7a0b1b-c08a-42ec-a248-f00305f94989" style="height: 50px; width: auto;">
@@ -20,6 +20,7 @@ layout: homepage
 <img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 50px; width: auto;">
 
 ## 🔥 News
+- *2025.02* &nbsp; 🎉I have received a 2025 Fall PhD offer in Machine Learning from MBZUAI. 
 - *2024.09* &nbsp; 🎉🎉Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
 - *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
