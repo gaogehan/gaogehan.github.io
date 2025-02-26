@@ -20,6 +20,7 @@ layout: homepage
 <img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 50px; width: auto;">
 
 ## 🔥 News
+- *2025.02* &nbsp; 🎉An invention patent application has been granted by the Chinese Patent Office. 
 - *2025.02* &nbsp; 🎉I have received a 2025 Fall PhD offer in Machine Learning from MBZUAI. 
 - *2024.09* &nbsp; 🎉🎉Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
