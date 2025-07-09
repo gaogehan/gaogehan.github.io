@@ -19,7 +19,7 @@
   Pattern Recognition **(PR 2024)**
  - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
   Yongkang Cheng, Mingjiang liang, Shaoli Huang, ***Gaoge Han***, Wei Liu, Jifeng Ning \
-  IEEE International Conference on Multimedia & Expo **(ICME 2024, appear soon)**
+  IEEE International Conference on Multimedia & Expo **(ICME 2024)**
 - [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://doi.org/10.1609/aaai.v38i3.27974) \
   ***Gaoge Han***, Shaoli Huang, Mingming Gong, Jinglei Tang \
   AAAI Conference on Artificial Intelligence **(AAAI 2024)**
