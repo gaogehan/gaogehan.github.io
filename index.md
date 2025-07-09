@@ -6,7 +6,7 @@ layout: homepage
 
  I am a PhD student at [MBZUAI](https://mbzuai.ac.ae/), advised by Prof. [Tongliang Liu](https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en). Previously, I was a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Before this, I was a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ).
 
- My research topic is AI, with a particular focus on ***Video quality evaluation, 3D Human motion generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+ My research topic is AI, with a particular focus on ***Human Perception Evaluation, 3D Human Motion Generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
 
 <!--
  > "Explore the unknown and turn possibilities into realities."
