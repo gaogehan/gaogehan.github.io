@@ -1,13 +1,22 @@
 ## 📝 Selected Publications 
+- [Kernel-aware Dynamic Convolution for Dense Prediction](https://) \
+  ***Gaoge Han***, Mingjiang Liang, Jinglei Tang, yongkang cheng, Wei Liu, Shaoli Huang \
+  Pattern Recognition **(PR 2025)**
+- [ReBaR: Reference-Based Reasoning for Robust Pose Estimation from Monocular Images](https://) \
+  Yongkang Cheng, Mingjiang Liang, Jifeng Ning, ***Gaoge Han***, Wei Liu, Shaoli Huang \
+  Pattern Recognition **(PR 2025)**
+- [Inter-Diffusion Generation Model of Speakers and Listeners for Effective Communication](https://) \
+  Jinhe Huang, Yongkang Cheng, Yuming Hang, ***Gaoge Han***, Jinewei Li, Jing Zhang, Xingjian Gu \
+  ACM International Conference on Multimedia Retrieval **(ICMR 2025)**
 - [ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model](https://) \
   ***Gaoge Han***, Mingjiang Liang, Jinglei Tang,yongkang cheng, Wei Liu, Shaoli Huang \
-  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025, appear soon)**
+  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025)**
 - [Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio](https://) \
   Yongkang Cheng, Mingjiang Liang, Shaoli Huang, ***Gaoge Han***, Jifeng Ning, Wei Liu \
-  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025, appear soon)**
+  IEEE/CVF Winter Conference on Applications of Computer Vision **(WACV 2025)**
 - [SIAM: A Parameter-free, Spatial Intersection Attention Module](https://doi.org/10.1016/j.patcog.2024.110509) \
   ***Gaoge Han***, Shaoli Huang, Fang Zhao, Jinglei Tang \
-  Pattern Recognition **(PR)**
+  Pattern Recognition **(PR 2024)**
  - [ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance]() \
   Yongkang Cheng, Mingjiang liang, Shaoli Huang, ***Gaoge Han***, Wei Liu, Jifeng Ning \
   IEEE International Conference on Multimedia & Expo **(ICME 2024, appear soon)**
