@@ -6,7 +6,7 @@ layout: homepage
 
  I am a PhD student at [MBZUAI](https://mbzuai.ac.ae/), advised by Prof. [Tongliang Liu](https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en). Previously, I was a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Before this, I was a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ).
 
- My research topic is AI, with a particular focus on ***Human Perception Evaluation, 3D Human Motion Generation and Hand Pose estimation***. Previously, I focused on high-level vision, e.g., object detection/segmentation and computer vision in agriculture.
+ My research topic is AI, with a particular focus on ***Human Perception Evaluation, 3D Human Motion Generation and Hand Pose Estimation***. Previously, I focused on high-level vision, e.g., Object Detection/Segmentation and Computer Vision in Agriculture.
 
 <!--
  > "Explore the unknown and turn possibilities into realities."
@@ -20,11 +20,11 @@ layout: homepage
 <img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 50px; width: auto;">
 
 ## 🔥 News
-- *2025.07* &nbsp; 🎉🎉two papers is accepted by Pattern Recognition 2025.
-- *2025.06* &nbsp; 😭 one paper is rejected by ICCV 2025. 
-- *2025.02* &nbsp; 🎉An invention patent application has been granted by the Chinese Patent Office. 
-- *2025.02* &nbsp; 🎉I have received a 2025 Fall PhD offer in Machine Learning from MBZUAI. 
-- *2024.09* &nbsp; 🎉🎉Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
+- *2025.07* &nbsp; 🎉🎉 Two papers is accepted by Pattern Recognition 2025.
+- *2025.06* &nbsp; 😭 One paper is rejected by ICCV 2025. 
+- *2025.02* &nbsp; 🎉 An invention patent application has been granted by the Chinese Patent Office. 
+- *2025.02* &nbsp; 🎉 I have received a 2025 Fall PhD offer in Machine Learning from MBZUAI. 
+- *2024.09* &nbsp; 🎉🎉 Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
 - *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
 - *2024.05* &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition.
