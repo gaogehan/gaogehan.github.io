@@ -20,14 +20,14 @@ layout: homepage
 <img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 50px; width: auto;">
 
 ## 🔥 News
-- *2025.07* &nbsp; 🎉🎉 Two papers is accepted by Pattern Recognition 2025.
+- *2025.07* &nbsp; 🎉🎉 Two papers are accepted by Pattern Recognition 2025.
+- *2025.07* &nbsp; 🎉 One paper is accepted by ICMR 2025.
 - *2025.06* &nbsp; 😭 One paper is rejected by ICCV 2025. 
 - *2025.02* &nbsp; 🎉 An invention patent application has been granted by the Chinese Patent Office. 
 - *2025.02* &nbsp; 🎉 I have received a 2025 Fall PhD offer in Machine Learning from MBZUAI. 
 - *2024.09* &nbsp; 🎉🎉 Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
 - *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
-- *2024.05* &nbsp; HuTuMotion was selected for The 8th Shaanxi Province Graduate Student Innovation Achievement Exhibition.
 - *2024.05* &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
 - *2024.04* &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI Distinct 1 Top, CCF-B).
 - *2024.03* &nbsp; HuTuMotion is accepted by [VALSE 2024](https://valser.org/2024/#/) Poster, see you in chongqing.
