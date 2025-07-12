@@ -24,7 +24,7 @@ layout: homepage
 - *2025.07* &nbsp; 🎉 One paper is accepted by ICMR 2025.
 - *2025.06* &nbsp; 😭 One paper is rejected by ICCV 2025. 
 - *2025.02* &nbsp; 🎉 An invention patent application has been granted by the Chinese Patent Office. 
-- *2025.02* &nbsp; 🎉 I have received a 2025 Fall PhD offer in Machine Learning from MBZUAI (CS Ranking 9th in AI globally). 
+- *2025.02* &nbsp; 🎉 I have received a 2025 Fall PhD offer in Machine Learning from MBZUAI (CS Rankings 9th in AI globally). 
 - *2024.09* &nbsp; 🎉🎉 Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
 - *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
