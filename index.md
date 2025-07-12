@@ -29,9 +29,9 @@ layout: homepage
 - *2024.09* &nbsp; I will start a Research Assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), see you in Hong Kong.
 - *2024.05* &nbsp; I will start a Research Intern at [Tencent AI Lab](https://ai.tencent.com/), See you in Shenzhen. 
 - *2024.05* &nbsp; My graduation thesis received the highest blind review score in my department (98 91 90).
-- *2024.04* &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI Distinct 1 Top, CCF-B).
+- *2024.04* &nbsp;🎉 One paper is accepted by Pattern Recognition (SCI Distinct 1 Top).
 - *2024.03* &nbsp; HuTuMotion is accepted by [VALSE 2024](https://valser.org/2024/#/) Poster, see you in chongqing.
-- *2023.12* &nbsp;🎉 One paper is accepted by AAAI 2024 (CCF-A). 
+- *2023.12* &nbsp;🎉 One paper is accepted by AAAI 2024. 
 
 
 {% include_relative _includes/publications.md %}
