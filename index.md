@@ -6,10 +6,13 @@ layout: homepage
 
  I am a PhD student at [MBZUAI](https://mbzuai.ac.ae/), advised by Prof. [Tongliang Liu](https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en) and co-supervised by Prof. [Fakhri Karray](https://scholar.google.com/citations?user=9_Hpd5kAAAAJ&hl=en-CN&oi=ao) and Prof. [Mingming Gong](https://scholar.google.com/citations?user=6BmiCJIAAAAJ&hl=en&oi=ao). Previously, I was a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Before this, I was a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ).
 
- My research topic is AI, with a particular focus on ***Human Perception Evaluation, 3D Human Motion Generation and Hand Pose Estimation***. Previously, I focused on high-level vision, e.g., Object Detection/Segmentation and Computer Vision in Agriculture.
+My recent research focuses on the applications of Physical AI across diverse domains.  
+My research motto: Do something different and special.  
+My life philosophy: It is not about being the first, but about flowing ceaselessly.
 
 <!--
  > "Explore the unknown and turn possibilities into realities."
+ with a particular focus on ***Human Perception Evaluation, 3D Human Motion Generation and Hand Pose Estimation***. Previously, I focused on high-level vision, e.g., Object Detection/Segmentation and Computer Vision in Agriculture
 -->
 ## 👣Research Experience
 - *2024.10 - 2025.08:* Research Assistant, [City University of Hong Kong](https://www.cityu.edu.hk/).
