@@ -4,7 +4,7 @@ layout: homepage
 
 ## 🤓About Me
 
- I am a PhD student at [MBZUAI](https://mbzuai.ac.ae/), advised by Prof. [Tongliang Liu](https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en) and co-supervised by Prof. [Fakhri Karray](https://scholar.google.com/citations?user=9_Hpd5kAAAAJ&hl=en-CN&oi=ao) and Prof. [Mingming Gong](https://scholar.google.com/citations?user=6BmiCJIAAAAJ&hl=en&oi=ao). Previously, I was a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Before this, I was a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ).
+ I am a PhD student at [MBZUAI](https://mbzuai.ac.ae/), advised by Prof. [Tongliang Liu](https://scholar.google.com.au/citations?user=EiLdZ_YAAAAJ&hl=en) and co-supervised by Prof. [Fakhri Karray](https://scholar.google.com/citations?user=9_Hpd5kAAAAJ&hl=en-CN&oi=ao) (IEEE Fellow) and Prof. [Mingming Gong](https://scholar.google.com/citations?user=6BmiCJIAAAAJ&hl=en&oi=ao). Previously, I was a research assiatant at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Kede Ma](https://scholar.google.com.hk/citations?user=sfzOyFoAAAAJ&hl=en). Before this, I was a research intern at [Tencent AI Lab](https://ai.tencent.com/), supervised by Dr. [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ).
 
 My recent research focuses on the applications of Physical AI across diverse domains.  
 My research motto: Do something different and special.  
