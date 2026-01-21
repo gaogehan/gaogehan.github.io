@@ -15,12 +15,15 @@ My life philosophy: It is not about being the first, but about flowing ceaseless
  with a particular focus on ***Human Perception Evaluation, 3D Human Motion Generation and Hand Pose Estimation***. Previously, I focused on high-level vision, e.g., Object Detection/Segmentation and Computer Vision in Agriculture
 -->
 ## 👣Research Experience
+- *2026:* Research Intern, [Agibot](https://www.agibot.com/).
 - *2024.10 - 2025.08:* Research Assistant, [City University of Hong Kong](https://www.cityu.edu.hk/).
 - *2024.05 - 2024.09:* Research Intern, [Tencent AI Lab](https://ai.tencent.com/).
 
 <img src="https://github.com/user-attachments/assets/8a7a0b1b-c08a-42ec-a248-f00305f94989" style="height: 50px; width: auto;">
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://github.com/user-attachments/assets/55d8aef2-76ba-4437-b2da-2ef06f0d002b" style="height: 50px; width: auto;">
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<img alt="agibot" src="https://github.com/user-attachments/assets/abad647b-3600-4696-827c-ba8496013adc" style="height: 50px; width: auto;">
 
 ## 🔥 News
 - *2025.07* &nbsp; 🎉🎉 Two papers are accepted by Pattern Recognition 2025.
