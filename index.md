@@ -26,9 +26,9 @@ My life philosophy: It is not about being the first, but about flowing ceaseless
 <img alt="agibot" src="https://github.com/user-attachments/assets/abad647b-3600-4696-827c-ba8496013adc" style="height: 50px; width: auto;">
 
 ## 🔥 News
+- *2026.02* &nbsp; 🎉 One paper is accepted by CVPR 2026 Main Conference. 
 - *2025.07* &nbsp; 🎉🎉 Two papers are accepted by Pattern Recognition 2025.
 - *2025.07* &nbsp; 🎉 One paper is accepted by ICMR 2025.
-- *2025.06* &nbsp; 😭 One paper is rejected by ICCV 2025. 
 - *2025.02* &nbsp; 🎉 An invention patent application has been granted by the Chinese Patent Office. 
 - *2025.02* &nbsp; 🎉 I have received a 2025 Fall PhD offer in Machine Learning from [MBZUAI](https://mbzuai.ac.ae/) (CS Rankings 9th in AI globally). 
 - *2024.09* &nbsp; 🎉🎉 Two papers are accepted by WACV 2025 in Round 1 (acceptance rate 12%). 
