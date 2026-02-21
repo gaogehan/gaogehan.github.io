@@ -1,4 +1,7 @@
 ## 📝 Selected Publications 
+- [From 2D Alignment to 3D Plausibility: Unifying Heterogeneous 2D Priors and Penetration-Free Diffusion for Occlusion-Robust Two-Hand Reconstruction](https://) \
+  ***Gaoge Han***, Yongkang Cheng, Zhe Chen, Shaoli Huang, Tongliang Liu  \
+  The IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR 2026 Main Conference)**
 - [Kernel-aware Dynamic Convolution for Dense Prediction](https://) \
   ***Gaoge Han***, Mingjiang Liang, Jinglei Tang, yongkang cheng, Wei Liu, Shaoli Huang \
   Pattern Recognition **(PR 2025)**
