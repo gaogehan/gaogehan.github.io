@@ -8,7 +8,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    image: "./assets/img/teaser_example_2.png"
+    image: "./assets/img/a2p.png"
     notes: ""
 
   - title: "Kernel-aware Dynamic Convolution for Dense Prediction"
@@ -19,7 +19,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    image: ""
+    image: "./assets/img/kdc.png"
     notes: ""
 
   - title: "ReBaR: Reference-Based Reasoning for Robust Pose Estimation from Monocular Images"
@@ -52,7 +52,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    image: ""
+    image: "./assets/img/reindiffuse.png"
     notes: ""
 
   - title: "Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio"
@@ -63,7 +63,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    image: ""
+    image: "./assets/img/wacv2025egg.png"
     notes: ""
 
   - title: "SIAM: A Parameter-free, Spatial Intersection Attention Module"
@@ -74,7 +74,7 @@ main:
     code: ""
     page: https://doi.org/10.1016/j.patcog.2024.110509
     bibtex: ""
-    image: ""
+    image: "./assets/img/siam.png"
     notes: ""
 
   - title: "ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance"
@@ -96,5 +96,5 @@ main:
     code: ""
     page: https://doi.org/10.1609/aaai.v38i3.27974
     bibtex: ""
-    image: ""
+    image: "./assets/img/hutumotion.png"
     notes: ""
