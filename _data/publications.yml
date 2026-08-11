@@ -1,22 +1,100 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "From 2D Alignment to 3D Plausibility: Unifying Heterogeneous 2D Priors and Penetration-Free Diffusion for Occlusion-Robust Two-Hand Reconstruction"
+    authors: <strong>Gaoge Han</strong>, Yongkang Cheng, Zhe Chen, Shaoli Huang, Tongliang Liu
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR 2026 Main Conference)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: "./assets/img/teaser_example_2.png"
+    notes: ""
+
+  - title: "Kernel-aware Dynamic Convolution for Dense Prediction"
+    authors: <strong>Gaoge Han</strong>, Mingjiang Liang, Jinglei Tang, yongkang cheng, Wei Liu, Shaoli Huang
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR 2025)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    notes: ""
+
+  - title: "ReBaR: Reference-Based Reasoning for Robust Pose Estimation from Monocular Images"
+    authors: Yongkang Cheng, Mingjiang Liang, Jifeng Ning, <strong>Gaoge Han</strong>, Wei Liu, Shaoli Huang
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR 2025)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    notes: ""
+
+  - title: "Inter-Diffusion Generation Model of Speakers and Listeners for Effective Communication"
+    authors: Jinhe Huang, Yongkang Cheng, Yuming Hang, <strong>Gaoge Han</strong>, Jinewei Li, Jing Zhang, Xingjian Gu
+    conference_short: ICMR
+    conference: ACM International Conference on Multimedia Retrieval <strong>(ICMR 2025)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    notes: ""
+
+  - title: "ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model"
+    authors: <strong>Gaoge Han</strong>, Mingjiang Liang, Jinglei Tang, yongkang cheng, Wei Liu, Shaoli Huang
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV 2025)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    notes: ""
+
+  - title: "Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio"
+    authors: Yongkang Cheng, Mingjiang Liang, Shaoli Huang, <strong>Gaoge Han</strong>, Jifeng Ning, Wei Liu
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV 2025)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    notes: ""
+
+  - title: "SIAM: A Parameter-free, Spatial Intersection Attention Module"
+    authors: <strong>Gaoge Han</strong>, Shaoli Huang, Fang Zhao, Jinglei Tang
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR 2024)</strong>
+    pdf: ""
+    code: ""
+    page: https://doi.org/10.1016/j.patcog.2024.110509
+    bibtex: ""
+    image: ""
+    notes: ""
+
+  - title: "ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance"
+    authors: Yongkang Cheng, Mingjiang liang, Shaoli Huang, <strong>Gaoge Han</strong>, Wei Liu, Jifeng Ning
+    conference_short: ICME
+    conference: IEEE International Conference on Multimedia & Expo <strong>(ICME 2024)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: ""
+    notes: ""
+
+  - title: "HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback"
+    authors: <strong>Gaoge Han</strong>, Shaoli Huang, Mingming Gong, Jinglei Tang
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI 2024)</strong>
+    pdf: ""
+    code: ""
+    page: https://doi.org/10.1609/aaai.v38i3.27974
+    bibtex: ""
+    image: ""
+    notes: ""
