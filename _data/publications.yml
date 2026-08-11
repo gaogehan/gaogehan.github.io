@@ -30,18 +30,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    image: ""
-    notes: ""
-
-  - title: "Inter-Diffusion Generation Model of Speakers and Listeners for Effective Communication"
-    authors: Jinhe Huang, Yongkang Cheng, Yuming Hang, <strong>Gaoge Han</strong>, Jinewei Li, Jing Zhang, Xingjian Gu
-    conference_short: ICMR
-    conference: ACM International Conference on Multimedia Retrieval <strong>(ICMR 2025)</strong>
-    pdf: ""
-    code: ""
-    page: ""
-    bibtex: ""
-    image: ""
+    image: "./assets/img/rebar.gif"
     notes: ""
 
   - title: "ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model"
@@ -85,7 +74,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    image: ""
+    image: "./assets/img/expgest.gif"
     notes: ""
 
   - title: "HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback"
