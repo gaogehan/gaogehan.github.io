@@ -1,3 +1,5 @@
+
+<!-- 
 ## 📝 Selected Publications 
 - [From 2D Alignment to 3D Plausibility: Unifying Heterogeneous 2D Priors and Penetration-Free Diffusion for Occlusion-Robust Two-Hand Reconstruction](https://) \
   ***Gaoge Han***, Yongkang Cheng, Zhe Chen, Shaoli Huang, Tongliang Liu  \
@@ -26,12 +28,9 @@
 - [HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback](https://doi.org/10.1609/aaai.v38i3.27974) \
   ***Gaoge Han***, Shaoli Huang, Mingming Gong, Jinglei Tang \
   AAAI Conference on Artificial Intelligence **(AAAI 2024)**
-
-<!-- 
-
 -->
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
