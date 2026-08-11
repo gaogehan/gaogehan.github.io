@@ -2,7 +2,7 @@ main:
 
   - title: "From 2D Alignment to 3D Plausibility: Unifying Heterogeneous 2D Priors and Penetration-Free Diffusion for Occlusion-Robust Two-Hand Reconstruction"
     authors: <strong>Gaoge Han</strong>, Yongkang Cheng, Zhe Chen, Shaoli Huang, Tongliang Liu
-    conference_short: CVPR
+    conference_short: CVPR 2026
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR 2026 Main Conference)</strong>
     pdf: ""
     code: ""
@@ -11,15 +11,28 @@ main:
     image: "./assets/img/a2p.png"
     notes: ""
 
-  - title: "Kernel-aware Dynamic Convolution for Dense Prediction"
+
+
+  - title: "ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model"
     authors: <strong>Gaoge Han</strong>, Mingjiang Liang, Jinglei Tang, yongkang cheng, Wei Liu, Shaoli Huang
-    conference_short: PR
-    conference: Pattern Recognition <strong>(PR 2025)</strong>
+    conference_short: WACV 2025
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV 2025)</strong>
     pdf: ""
     code: ""
     page: ""
     bibtex: ""
-    image: "./assets/img/kdc.png"
+    image: "./assets/img/reindiffuse.png"
+    notes: ""
+
+  - title: "Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio"
+    authors: Yongkang Cheng, Mingjiang Liang, Shaoli Huang, <strong>Gaoge Han</strong>, Jifeng Ning, Wei Liu
+    conference_short: WACV 2025
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV 2025)</strong>
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: "./assets/img/wacv2025egg.png"
     notes: ""
 
   - title: "ReBaR: Reference-Based Reasoning for Robust Pose Estimation from Monocular Images"
@@ -33,42 +46,9 @@ main:
     image: "./assets/img/rebar.gif"
     notes: ""
 
-  - title: "ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model"
-    authors: <strong>Gaoge Han</strong>, Mingjiang Liang, Jinglei Tang, yongkang cheng, Wei Liu, Shaoli Huang
-    conference_short: WACV
-    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV 2025)</strong>
-    pdf: ""
-    code: ""
-    page: ""
-    bibtex: ""
-    image: "./assets/img/reindiffuse.png"
-    notes: ""
-
-  - title: "Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audio"
-    authors: Yongkang Cheng, Mingjiang Liang, Shaoli Huang, <strong>Gaoge Han</strong>, Jifeng Ning, Wei Liu
-    conference_short: WACV
-    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV 2025)</strong>
-    pdf: ""
-    code: ""
-    page: ""
-    bibtex: ""
-    image: "./assets/img/wacv2025egg.png"
-    notes: ""
-
-  - title: "SIAM: A Parameter-free, Spatial Intersection Attention Module"
-    authors: <strong>Gaoge Han</strong>, Shaoli Huang, Fang Zhao, Jinglei Tang
-    conference_short: PR
-    conference: Pattern Recognition <strong>(PR 2024)</strong>
-    pdf: ""
-    code: ""
-    page: https://doi.org/10.1016/j.patcog.2024.110509
-    bibtex: ""
-    image: "./assets/img/siam.png"
-    notes: ""
-
   - title: "ExpGest: Expressive Full-Body Gesture Generation Using Diffusion Model and Hybrid Audio-Text Guidance"
     authors: Yongkang Cheng, Mingjiang liang, Shaoli Huang, <strong>Gaoge Han</strong>, Wei Liu, Jifeng Ning
-    conference_short: ICME
+    conference_short: ICME 2025
     conference: IEEE International Conference on Multimedia & Expo <strong>(ICME 2024)</strong>
     pdf: ""
     code: ""
@@ -79,7 +59,7 @@ main:
 
   - title: "HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback"
     authors: <strong>Gaoge Han</strong>, Shaoli Huang, Mingming Gong, Jinglei Tang
-    conference_short: AAAI
+    conference_short: AAAI 2025
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI 2024)</strong>
     pdf: ""
     code: ""
@@ -87,3 +67,27 @@ main:
     bibtex: ""
     image: "./assets/img/hutumotion.png"
     notes: ""
+
+  - title: "Kernel-aware Dynamic Convolution for Dense Prediction"
+    authors: <strong>Gaoge Han</strong>, Mingjiang Liang, Jinglei Tang, yongkang cheng, Wei Liu, Shaoli Huang
+    conference_short: PR
+    conference: Pattern Recognition 
+    pdf: ""
+    code: ""
+    page: ""
+    bibtex: ""
+    image: "./assets/img/kdc.png"
+    notes: ""
+    
+  - title: "SIAM: A Parameter-free, Spatial Intersection Attention Module"
+    authors: <strong>Gaoge Han</strong>, Shaoli Huang, Fang Zhao, Jinglei Tang
+    conference_short: PR
+    conference: Pattern Recognition
+    pdf: ""
+    code: ""
+    page: https://doi.org/10.1016/j.patcog.2024.110509
+    bibtex: ""
+    image: "./assets/img/siam.png"
+    notes: ""
+
+
