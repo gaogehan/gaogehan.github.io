@@ -59,7 +59,7 @@ main:
 
   - title: "HuTuMotion: Human-Tuned Latent Motion Diffusion Models with Minimal Feedback"
     authors: <strong>Gaoge Han</strong>, Shaoli Huang, Mingming Gong, Jinglei Tang
-    conference_short: AAAI 2025
+    conference_short: AAAI 2024
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI 2024)</strong>
     pdf: ""
     code: ""
