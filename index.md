@@ -26,6 +26,7 @@ My life philosophy: It is not about being the first, but about flowing ceaseless
 <img alt="agibot" src="https://github.com/user-attachments/assets/abad647b-3600-4696-827c-ba8496013adc" style="height: 50px; width: auto;">
 
 ## 🔥 News
+- *2026.09* &nbsp; 🎉 One paper is accepted by NeurIPS 2026 Main Conference. 
 - *2026.02* &nbsp; 🎉 One paper is accepted by CVPR 2026 Main Conference. 
 - *2025.07* &nbsp; 🎉🎉 Two papers are accepted by Pattern Recognition 2025.
 - *2025.07* &nbsp; 🎉 One paper is accepted by ICMR 2025.
